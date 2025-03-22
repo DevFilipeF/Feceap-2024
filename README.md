@@ -1,8 +1,8 @@
-# ReciclaFacilPY
+# ReciclaFacil
 
 ## Descrição
 
-O **ReciclaFacilPY** é um sistema de login e gestão para uma plataforma de reciclagem. Ele utiliza Tkinter para a interface gráfica, PyQt5 para a splash screen e SQLite para armazenamento de dados.
+O **ReciclaFacil** é um sistema de login e gestão para uma plataforma de reciclagem. Ele utiliza Tkinter para a interface gráfica, PyQt5 para a splash screen e SQLite para armazenamento de dados.
 
 ## Requisitos
 
