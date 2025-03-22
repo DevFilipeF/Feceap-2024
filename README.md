@@ -20,7 +20,7 @@ Antes de executar o projeto, certifique-se de ter os seguintes requisitos instal
 - **Pillow**: Para manipulação de imagens dentro da interface gráfica.
 - **os**: Para interagir com o sistema operacional (exemplo: manipulação de arquivos e diretórios).
 
-- **Imagens da tela inicial**
+# Imagens
 
 ## Login
 ![login](https://github.com/user-attachments/assets/f58f6c3a-07cc-4881-9f0b-8dcb864c8038)
