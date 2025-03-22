@@ -1,0 +1,22 @@
+# ReciclaFacilPY
+
+## Descrição
+
+O **ReciclaFacilPY** é um sistema de login e gestão para uma plataforma de reciclagem. Ele utiliza Tkinter para a interface gráfica, PyQt5 para a splash screen e SQLite para armazenamento de dados.
+
+## Requisitos
+
+Antes de executar o projeto, certifique-se de ter os seguintes requisitos instalados:
+
+- **Python 3+**
+
+### Bibliotecas necessárias (instale com `pip install "nome da biblioteca" `"):
+
+- **customtkinter**: Para a criação de interfaces gráficas modernas e personalizadas.
+- **PyQt5**: Para a criação da splash screen.
+- **sqlite3**: Para o gerenciamento de banco de dados (já incluído no Python).
+- **subprocess**: Para executar comandos do sistema a partir do Python.
+- **sys**: Para manipulação de parâmetros e execução do sistema.
+- **Pillow**: Para manipulação de imagens dentro da interface gráfica.
+- **os**: Para interagir com o sistema operacional (exemplo: manipulação de arquivos e diretórios).
+
